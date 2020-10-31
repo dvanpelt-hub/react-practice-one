@@ -1,0 +1,9 @@
+body {
+    color: red;
+}
+
+@media all and (min-width: 600px) {
+    p, li {
+        font-size: 25px;
+    }
+}
